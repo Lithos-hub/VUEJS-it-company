@@ -1,5 +1,4 @@
-# corporatedesign
-
+# Ficticial IT Company main page design
 ## Project setup
 ```
 npm install
